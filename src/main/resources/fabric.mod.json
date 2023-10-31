@@ -10,11 +10,7 @@
 	},
 	"license": "MIT",
 	"environment": "*",
-	"entrypoints": {
-		"main": [
-			"io.github.bd103.ticklowerperm.TickLowerPerm"
-		]
-	},
+	"entrypoints": {},
 	"mixins": [
 		"ticklowerperm.mixins.json"
 	],
