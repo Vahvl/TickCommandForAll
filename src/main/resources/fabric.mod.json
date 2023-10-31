@@ -9,6 +9,7 @@
 		"sources": "https://github.com/BD103/TickLowerPerm"
 	},
 	"license": "MIT",
+	"icon": "assets/ticklowerperm/icon.png",
 	"environment": "*",
 	"entrypoints": {},
 	"mixins": [
