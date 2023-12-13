@@ -6,6 +6,10 @@ This is a [Fabric](https://fabricmc.net/) mod that lowers the permission of the 
 
 Check out [my blog post announcing this mod!](https://bd103.github.io/blog/2023-11-03-announcing-ticklowerperm)
 
+## Snapshot Support
+
+TickLowerPerm is only tested on the Minecraft versions specified in Modrinth and in the [release notes](https://github.com/BD103/TickLowerPerm/releases). You can run it on untested snapshot versions including and above 1.20.3, but things may break. You've been warned!
+
 ## Credits
 
 Thank you to @Linguardium for their [help with mixins](https://discord.com/channels/507304429255393322/807617700734042122/1168716370159079524).
