@@ -1,3 +1,6 @@
+# This is a fork of BD103's mod to change the tick permission level to allow everyone to use it instead, meant for use in singleplayer worlds without cheats.
+
+
 # TickLowerPerm
 
 [![Modrinth](https://img.shields.io/badge/Modrinth-gray?logo=modrinth) ![Mod Version](https://img.shields.io/modrinth/v/4ShukODo) ![Game Version](https://img.shields.io/modrinth/game-versions/4ShukODo)](https://modrinth.com/mod/ticklowerperm)
