@@ -13,6 +13,6 @@ public abstract class TickCommandMixin {
             constant = @Constant(intValue = 3)
     )
     private static int permissionLevel(int _value) {
-        return 2;
+        return 0;
     }
 }
